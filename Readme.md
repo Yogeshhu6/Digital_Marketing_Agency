@@ -8,7 +8,7 @@
 
 ## Description
 
-A Static Restaurant Web page Created using `HTML` and `CSS`.
+A Static Digital Marketing Agency Web page Created using `HTML` and `CSS`.
 
 This project is Hosted on `Netlify`
 
@@ -25,5 +25,5 @@ __Project Snap Shot__
 ![img](Snap.png)
 
 > Please find the Link of the Project
-[__Restaurant__]()
+[__Digital__](https://illustrious-starlight-c2f9fe.netlify.app/)
 
